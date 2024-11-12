@@ -1,0 +1,6 @@
+[submodule "Movie Theater Manager/Firerock"]
+	path = Movie Theater Manager/Firerock
+	url = https://github.com/alexmickelson-2024/movie-theatre-Caelc2216.git
+[submodule "Firerock"]
+	path = Firerock
+	url = https://github.com/simper-s24/midterm-project-Caelc2216.git
